@@ -6,6 +6,6 @@ MYSQL
 LINUX
 
 
-# Clone the project 
-# cd into the project-directory
-# docker-compose up 
+### Clone the project 
+### cd into the project-directory
+### docker-compose up 
