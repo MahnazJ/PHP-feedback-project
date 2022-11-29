@@ -9,3 +9,4 @@ LINUX
 ### Clone the project 
 ### cd into the project-directory
 ### docker-compose up 
+### open up your webbrowser and go to localhost/feedback
